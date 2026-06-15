@@ -19,4 +19,5 @@ https://raw.githack.com/lowlifeslugger/Basics-of-Python-Computing/main/Python_Co
 Question bank
 https://raw.githack.com/lowlifeslugger/Basics-of-Python-Computing/main/Question_Bank.html
 All the best suckers
+how I feel after creating a whole repository instead of studying for this exam
 contact me milburnfernandes7@gmail.com
